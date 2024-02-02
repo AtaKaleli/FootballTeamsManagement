@@ -1,1 +1,1 @@
-Console application that user can manage football team operations using structs
+Console application that user can manage football team operations using structs and linkedlists
